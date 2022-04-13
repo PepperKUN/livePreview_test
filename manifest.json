@@ -1,0 +1,10 @@
+{
+  "name": "NE翻译插件",
+  "id": "1087027493356840207",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+	"ui": "dist/ui.html",
+  "editorType": [
+    "figma"
+  ]
+}
